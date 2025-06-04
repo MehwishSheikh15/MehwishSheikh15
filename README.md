@@ -85,7 +85,7 @@
 
 <!-- Typing SVG (Bottom Animation) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&width=435&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding+👩‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=06B6D4&width=435&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding" alt="Typing SVG" />
 </p>
 
 ❤️ Thank you for visiting!
