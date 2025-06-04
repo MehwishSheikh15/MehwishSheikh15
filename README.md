@@ -1,10 +1,8 @@
 # Hi there, I'm Mehwish Sheikh 👋  
 
-<!-- Typing SVG Placeholder - Top Intro Animation -->
+<!-- Full Stack Developer  -->
 <!--
-  Replace this comment with your Typing SVG code or GIF link.
-  Example: 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Automation+Specialist" alt="Typing SVG"/>
+  
 -->
 
 ---
@@ -21,8 +19,8 @@
 
 ## 📊 GitHub Stats
 
-![Mehwish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehwishSheikh&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MehwishSheikh&theme=radical)
+![Mehwish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MehwishSheikh15&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MehwishSheikh15&theme=radical)
 
 ---
 
@@ -76,11 +74,9 @@
 
 ---
 
-<!-- Typing SVG Placeholder - Bottom Outro Animation -->
+<!-- Keep Coding -->
 <!--
-  Replace this comment with your Typing SVG code or GIF link.
-  Example: 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F&width=435&lines=Thanks+for+Stopping+By!;Let's+Connect+and+Build+Together" alt="Typing SVG"/>
+  Follow for Stay tuned
 -->
 
 ❤️ Thank you for visiting!
