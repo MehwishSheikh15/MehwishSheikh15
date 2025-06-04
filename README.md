@@ -61,7 +61,7 @@ Here’s a glimpse of my work—code that solves problems and sparks joy:
 I’m always excited to collaborate, share ideas, or discuss the next big thing in tech:
 
 🌐 Portfolio – Explore my projects and skills (https://tailwind-portfolio-lac.vercel.app/)
-📧 Email: mehwish.sheikh@example.com
+📧 Email: mehwishsheikh451sheikh@gmail.com
 💬 LinkedIn – Let’s network! (www.linkedin.com/in/mehwish-sheikh-9871442b6)
 🚀 Vercel – Check out my deployed apps (https://vercel.com/mehwish-sheikhs-projects))
 
