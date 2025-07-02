@@ -76,7 +76,7 @@
 
 ## 🔗 Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?logo=github&logoColor=white)]([https://yourportfolio.com]([[https://tailwind-portfolio-lac.vercel.app/]](https://mehwish-sheikh.vercel.app/)(https://mehwish-sheikh.vercel.app/)))  
+[![Portfolio](https://img.shields.io/badge/Portfolio-0078D4?logo=github&logoColor=white)]([https://yourportfolio.com](https://mehwish-sheikh.vercel.app/))  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mehwishsheikh451sheikh@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mehwish-sheikh-9871442b6/))  
 [![Vercel](https://img.shields.io/badge/Vercel-000?logo=vercel&logoColor=white)]([https://vercel.com/yourprofile](https://vercel.com/mehwish-sheikhs-projects))
