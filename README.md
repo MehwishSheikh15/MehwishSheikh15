@@ -1,171 +1,115 @@
-<h1 align="center">Mehwish Sheikh</h1>
+<div align="center">
 
-<p align="center">
-  <b>AI Engineer • RAG Systems Specialist • LLM Infrastructure Builder</b>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:185FA5,100:378ADD&height=200&section=header&text=Mehwish%20Sheikh&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20RAG%20Systems&descAlignY=58&descSize=18&descColor=B5D4F4" alt="Mehwish Sheikh banner" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Retrieval-First+AI+Systems;Designing+Production-Grade+LLM+Pipelines;Focused+on+Grounded%2C+Traceable+%26+Reliable+AI" />
-</p>
+</div>
 
 ---
 
-## 🧠 Engineering Focus
+## 👩‍💻 About Me
 
-I design and build **retrieval-centric AI systems** where correctness, grounding, and traceability matter more than fluent generation.
+> *I build systems end-to-end — from RAG pipelines and LLM inference layers to containerised backends and responsive frontends.*
 
-My work sits at the intersection of:
+I'm an **AI Engineer & Full-Stack Developer** based in Karachi, Pakistan, specialising in production-grade RAG architectures, LLM-powered workflows, and scalable backend systems. Hallucination mitigation, confidence scoring, and source provenance are design defaults in everything I build — not afterthoughts.
 
-- Retrieval-Augmented Generation (RAG) systems
-- LLM orchestration pipelines
-- Vector database architecture
-- Document intelligence systems
+Currently completing my **BS in Computer Science @ ILMA University (2025–2028)** alongside intensive AI engineering training at **GIAIC (Governor's Initiative for AI & Computing)**.
 
-I focus on one core question:
-
-> How do we make AI systems reliably use *the right information*, not just generate plausible answers?
+I also contribute to **IEEE Women in Engineering (WIE)** — coordinating leadership and technical community initiatives.
 
 ---
 
-## ⚙️ Core Technical Expertise
+## 🧠 What I Work With
 
-### 🔍 Retrieval-Augmented Generation (RAG)
-- Semantic + hierarchical chunking strategies
-- Query-time context assembly optimization
-- Hybrid retrieval (vector + metadata filtering)
-- Source-grounded generation pipelines
-- Retrieval quality evaluation & tuning
+### AI & LLM Engineering
+![RAG](https://img.shields.io/badge/RAG_Systems-0a0f1e?style=for-the-badge&logoColor=B5D4F4&labelColor=185FA5)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_(Anthropic)-CC785C?style=for-the-badge&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF3366?style=for-the-badge&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector_(Neon)-008bb9?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0a0f1e?style=for-the-badge&labelColor=185FA5&logoColor=white)
+![Hallucination Mitigation](https://img.shields.io/badge/Hallucination_Mitigation-0a0f1e?style=for-the-badge&labelColor=185FA5&logoColor=white)
 
-### 🧠 LLM Systems Engineering
-- OpenAI / Gemini / Claude / Qwen orchestration
-- Structured output pipelines (schema-driven responses)
-- Hallucination detection & mitigation layers
-- Confidence scoring and uncertainty modeling
-- Prompt + context engineering for production systems
+### Backend & APIs
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🗄️ Data & Vector Infrastructure
-- Qdrant, pgvector (Neon PostgreSQL)
-- Embedding pipeline design & optimization
-- Change-detection systems for dynamic knowledge bases
-- Metadata-aware retrieval architectures
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 📄 Document Intelligence Systems
-- PDF parsing pipelines (PyMuPDF, pdfplumber)
-- Web data extraction (Playwright, BeautifulSoup)
-- Structured transformation of unstructured documents
-- Schema alignment for knowledge systems
-
----
-
-## 🚀 Selected Systems (Not Just Projects)
-
-### 🧠 AI Query Intelligence System
-A retrieval-first LLM system designed for grounded reasoning.
-
-- Query understanding + decomposition
-- Context-aware retrieval pipeline
-- Structured response validation layer
-- Hallucination-resistant output design
-
-🔗 Live: https://iv34qu7a4znljfiyoyq9mb.streamlit.app  
+### DevOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm_Charts-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
-### 📚 RAG Knowledge System — Humanoid Robotics
-A production-style knowledge ingestion system.
+## 🚀 Featured Projects
 
-- Hierarchical document ingestion architecture
-- Citation-grounded response generation
-- Scalable retrieval design for structured content
-
-🔗 GitHub: https://github.com/MehwishSheikh15/Physical-AI-Humanoid-Robotics-Textbook  
-🔗 Live: https://physical-ai-humanoid-robotics-textb-eta-self.vercel.app  
-
----
-
-### 🧩 Workflow Engine — Todo PHASES
-A structured execution system for task orchestration.
-
-- Phase-based workflow decomposition
-- State-driven execution model
-- Scalable frontend architecture
-
-🔗 https://todo-phases.vercel.app  
+| Project | Stack | Live |
+|---|---|---|
+| 🤖 **AI Query Tool** — LLM-powered intelligence with hallucination-resistant design | OpenAI · Streamlit · Python | [Live Demo](https://iv34qu7a4znljfiyoyq9mb.streamlit.app) |
+| 📚 **RAG Educational Platform** — Hierarchical knowledge retrieval for robotics textbook | RAG · LLM · Vercel | [GitHub](https://github.com/MehwishSheikh15) |
+| 🛒 **COMFORTY** — Full e-commerce experience with responsive UI | Next.js · Tailwind · REST APIs | [Live App](https://comforty-seven.vercel.app) |
+| ✅ **Todo PHASES** — Workflow-based task management | Next.js · TypeScript | [Live App](https://todo-app-mehwish.vercel.app) |
+| 📝 **Dynamic Blog Platform** — CMS-ready content platform | Next.js · TypeScript | [Live App](https://dynamic-blog-rose.vercel.app) |
 
 ---
 
-### 📰 Content Intelligence System — Dynamic Blog
-A CMS-like structured content pipeline.
+## 📊 GitHub Stats
 
-- Dynamic routing system
-- SEO-optimized architecture
-- Content ingestion pipeline design
+<div align="center">
 
-🔗 https://dynamic-blog-rose.vercel.app  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MehwishSheikh15&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0f1e&title_color=B5D4F4&icon_color=378ADD&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehwishSheikh15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0f1e&title_color=B5D4F4&text_color=ffffff"/>
 
----
+</div>
 
-## 🧭 System Design Philosophy
+<div align="center">
 
-### Core Principles
+![GitHub Streak](https://streak-stats.demolab.com?user=MehwishSheikh15&theme=tokyonight&hide_border=true&background=0a0f1e&stroke=185FA5&ring=378ADD&fire=378ADD&currStreakLabel=B5D4F4&sideLabels=B5D4F4&dates=ffffff)
 
-- Retrieval > Generation  
-- Structure > Fluency  
-- Correctness > Creativity  
-- Provenance > Prediction  
+</div>
 
 ---
 
-## 🧰 Technical Stack
+## 🏆 Approach & Philosophy
 
-**AI / LLMs:** OpenAI · Gemini · Claude · Qwen  
-**RAG Systems:** Qdrant · pgvector · embedding pipelines  
-**Backend:** Python · FastAPI · Node.js  
-**Data Layer:** PyMuPDF · pdfplumber · Playwright · ETL systems  
-**Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-**Infrastructure:** Docker · GitHub · Vercel · Streamlit  
-
----
-
-## 🧠 What I Care About in AI Systems
-
-- Can we trace every answer back to source data?
-- Can we measure retrieval quality, not just output quality?
-- Can we detect when the model is uncertain?
-- Can we prevent hallucinations *before* generation?
-
-I design systems where these are **core constraints, not optional features**.
+```
+RAG Pipeline Design Defaults:
+  ✓ Chunking strategy optimised per document type
+  ✓ Confidence scoring on every retrieval
+  ✓ Source provenance tracked end-to-end
+  ✓ Hallucination mitigation baked in — not bolted on
+  ✓ Freshness tracking for time-sensitive data
+```
 
 ---
 
+## 🌐 Connect With Me
 
+<div align="center">
 
-## 🌍 Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f1e?style=for-the-badge&logo=vercel&logoColor=white&label=mehwish-sheikh.vercel.app&labelColor=185FA5)](https://mehwish-sheikh.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehwish-sheikh-9871442b6)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehwishsheikh451sheikh@gmail.com)
 
-<p align="center">
-  <a href="https://mehwish-sheikh.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+**📍 Karachi, Pakistan · Open to Remote Roles**
 
-  <a href="mailto:mehwishsheikh451sheikh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF4B4B?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/mehwish-sheikh-9871442b6/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://x.com/Mehwish_Sheikh0">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <b>“The goal is not to generate answers — it is to generate correct answers from the right sources.”</b>
-</p>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,50:185FA5,100:0a0f1e&height=100&section=footer" alt="footer wave" width="100%"/>
+</div>
 
 
 
