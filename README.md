@@ -1,139 +1,152 @@
+<h1 align="center">Mehwish Sheikh</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Mehwish%20Sheikh&fontSize=45&color=0:0f172a,100:06b6d4&fontColor=ffffff&animation=fadeIn" />
+  <b>AI Engineer • RAG Systems Specialist • LLM Infrastructure Builder</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+RAG+Systems+Specialist;LLM+Data+Pipelines+Architect;Retrieval%2C+Reasoning+%26+Reliability+Focused;Building+Production-Grade+AI+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Building+Retrieval-First+AI+Systems;Designing+Production-Grade+LLM+Pipelines;Focused+on+Grounded%2C+Traceable+%26+Reliable+AI" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineering Focus
 
-I am an **AI Engineer specializing in production-grade RAG systems, LLM pipelines, and retrieval-driven AI architectures**.
+I design and build **retrieval-centric AI systems** where correctness, grounding, and traceability matter more than fluent generation.
 
-My work focuses on building systems that are:
+My work sits at the intersection of:
 
-- Grounded in **real data (not hallucinations)**
-- Designed for **retrieval-first intelligence**
-- Optimized for **traceability & confidence scoring**
-- Built for **real-world production scale**
+- Retrieval-Augmented Generation (RAG) systems
+- LLM orchestration pipelines
+- Vector database architecture
+- Document intelligence systems
 
-I don’t just build AI apps — I build **AI systems that can reason over structured knowledge reliably**.
+I focus on one core question:
+
+> How do we make AI systems reliably use *the right information*, not just generate plausible answers?
 
 ---
-## 🔭 Current Focus
-Building production-grade RAG systems with improved retrieval evaluation, grounding accuracy, and hallucination control.
 
-## ⚙️ Core Expertise
+## ⚙️ Core Technical Expertise
 
 ### 🔍 Retrieval-Augmented Generation (RAG)
-- Semantic, hierarchical, and adaptive chunking strategies
-- Vector + metadata hybrid retrieval systems
-- Query-time context optimization
-- Source-grounded response generation
+- Semantic + hierarchical chunking strategies
+- Query-time context assembly optimization
+- Hybrid retrieval (vector + metadata filtering)
+- Source-grounded generation pipelines
+- Retrieval quality evaluation & tuning
 
-### 🧠 LLM Engineering
-- OpenAI / Gemini / Claude / Qwen integration
-- Structured output pipelines
+### 🧠 LLM Systems Engineering
+- OpenAI / Gemini / Claude / Qwen orchestration
+- Structured output pipelines (schema-driven responses)
 - Hallucination detection & mitigation layers
-- Confidence scoring systems
-- Prompt + context engineering
+- Confidence scoring and uncertainty modeling
+- Prompt + context engineering for production systems
 
-### 🗄️ Vector Databases & Data Systems
+### 🗄️ Data & Vector Infrastructure
 - Qdrant, pgvector (Neon PostgreSQL)
-- Embedding pipeline optimization
-- Change detection systems for evolving data
-- Metadata-driven retrieval architectures
+- Embedding pipeline design & optimization
+- Change-detection systems for dynamic knowledge bases
+- Metadata-aware retrieval architectures
 
-### 📄 Document Intelligence
-- PDF parsing (PyMuPDF, pdfplumber)
-- HTML extraction (BeautifulSoup, Playwright)
-- Structured data transformation pipelines
-- Knowledge schema normalization
+### 📄 Document Intelligence Systems
+- PDF parsing pipelines (PyMuPDF, pdfplumber)
+- Web data extraction (Playwright, BeautifulSoup)
+- Structured transformation of unstructured documents
+- Schema alignment for knowledge systems
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Systems (Not Just Projects)
 
 ### 🧠 AI Query Intelligence System
-Production-grade LLM retrieval pipeline  
-- Context-aware query understanding  
-- Structured response validation  
-- Hallucination-resistant output design  
+A retrieval-first LLM system designed for grounded reasoning.
+
+- Query understanding + decomposition
+- Context-aware retrieval pipeline
+- Structured response validation layer
+- Hallucination-resistant output design
 
 🔗 Live: https://iv34qu7a4znljfiyoyq9mb.streamlit.app  
 
 ---
 
-### 📚 RAG Knowledge System — Humanoid Robotics Textbook
-- Hierarchical document ingestion system  
-- Citation-based AI responses  
-- Scalable retrieval architecture  
+### 📚 RAG Knowledge System — Humanoid Robotics
+A production-style knowledge ingestion system.
+
+- Hierarchical document ingestion architecture
+- Citation-grounded response generation
+- Scalable retrieval design for structured content
 
 🔗 GitHub: https://github.com/MehwishSheikh15/Physical-AI-Humanoid-Robotics-Textbook  
 🔗 Live: https://physical-ai-humanoid-robotics-textb-eta-self.vercel.app  
 
 ---
 
-### ✅ Todo PHASES — Workflow Engine
-- Modular task workflow system  
-- State-driven execution architecture  
-- Scalable frontend structure  
+### 🧩 Workflow Engine — Todo PHASES
+A structured execution system for task orchestration.
+
+- Phase-based workflow decomposition
+- State-driven execution model
+- Scalable frontend architecture
 
 🔗 https://todo-phases.vercel.app  
 
 ---
 
-### 📰 Dynamic Blog Platform
-- CMS-style content ingestion pipeline  
-- SEO optimized architecture  
-- Dynamic routing system  
+### 📰 Content Intelligence System — Dynamic Blog
+A CMS-like structured content pipeline.
+
+- Dynamic routing system
+- SEO-optimized architecture
+- Content ingestion pipeline design
 
 🔗 https://dynamic-blog-rose.vercel.app  
 
 ---
 
-### 🛒 E-Commerce & UI Systems
-- COMFORTY: https://comforty-web-nx82.vercel.app  
-- Vibe Shop: https://vibe-shop-wish.lovable.app  
+## 🧭 System Design Philosophy
 
-Focus: performance, UI architecture, scalability
-
----
-
-## 🧭 Engineering Philosophy
-
-Core principles:
+### Core Principles
 
 - Retrieval > Generation  
 - Structure > Fluency  
-- Truth > Creativity  
+- Correctness > Creativity  
 - Provenance > Prediction  
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Technical Stack
 
-**AI & LLMs:** OpenAI · Gemini · Claude · Qwen  
-**RAG Stack:** Qdrant · pgvector · Embeddings pipelines  
+**AI / LLMs:** OpenAI · Gemini · Claude · Qwen  
+**RAG Systems:** Qdrant · pgvector · embedding pipelines  
 **Backend:** Python · FastAPI · Node.js  
-**Data Processing:** PyMuPDF · pdfplumber · Playwright · ETL systems  
+**Data Layer:** PyMuPDF · pdfplumber · Playwright · ETL systems  
 **Frontend:** Next.js · React · TypeScript · Tailwind CSS  
-**DevOps:** Docker · GitHub · Vercel · Streamlit  
+**Infrastructure:** Docker · GitHub · Vercel · Streamlit  
 
 ---
 
-## 📊 GitHub Stats
+## 🧠 What I Care About in AI Systems
+
+- Can we trace every answer back to source data?
+- Can we measure retrieval quality, not just output quality?
+- Can we detect when the model is uncertain?
+- Can we prevent hallucinations *before* generation?
+
+I design systems where these are **core constraints, not optional features**.
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehwishSheikh15&show_icons=true&theme=radical&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MehwishSheikh15&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MehwishSheikh15&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🌍 Connect With Me
+## 🌍 Connect
 
 <p align="center">
   <a href="https://mehwish-sheikh.vercel.app">
@@ -156,15 +169,8 @@ Core principles:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06b6d4,100:0f172a"/>
+  <b>“The goal is not to generate answers — it is to generate correct answers from the right sources.”</b>
 </p>
-
-<p align="center">
-  <b>“Building AI systems that think in structure, not noise.”</b>
-</p>
-
-
-
 
 
 
