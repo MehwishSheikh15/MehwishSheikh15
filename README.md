@@ -141,7 +141,7 @@ I design systems where these are **core constraints, not optional features**.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehwishSheikh15&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MehwishSheikh15&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
