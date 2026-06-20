@@ -97,7 +97,7 @@ RAG Pipeline Design Defaults:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f1e?style=for-the-badge&logo=vercel&logoColor=white&label=mehwish-sheikh.vercel.app&labelColor=185FA5)](https://mehwish-sheikh.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0f1e?style=for-the-badge&logo=vercel&logoColor=white&label=mehwish-sheikh.vercel.app&labelColor=185FA5)]([https://mehwish-sheikh.vercel.app](https://mehwish-sheikh-production.up.railway.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mehwish-sheikh-9871442b6)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehwishsheikh451sheikh@gmail.com)
 
